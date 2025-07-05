@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <img src="/assets/image.png" alt="Défi Logo" class="logo-defi" />
+    </header>
+    <h1>Tic Tac Toe avec BOBY (IA)</h1>
+    <section id="rules">
+      <strong>Règles du jeu :</strong>
+      <ul>
+        <li>Alignez 3 symboles identiques pour gagner.</li>
+        <li>Vous jouez contre BOBY (IA imbattable).</li>
+        <li>
+          <b>Spécial :</b> S'il y a match nul, une case occupée sera supprimée
+          au hasard et la partie continue !
+        </li>
+      </ul>
+    </section>
+    <div id="game">
+      <div id="board" class="board"></div>
+      <div id="player"></div>
+      <div class="reset-container">
+        <button id="reset-button">Rejouer</button>
+      </div>
+    </div>
+    <script src="dist/main.js"></script>
+  </body>
+</html>
