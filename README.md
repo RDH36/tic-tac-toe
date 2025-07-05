@@ -1,6 +1,6 @@
 # Tic Tac Toe avec BOBY (IA)
 
-Un jeu de Tic Tac Toe pour le defi du semaine 5 de [OPEN DEV MADA](https://www.facebook.com/profile.php?id=61576678558068), HTML et CSS où vous affrontez BOBY, une IA imbattable !
+Un jeu de Tic Tac Toe pour le defi du semaine 5 de [OPENDEV MADA](https://www.facebook.com/profile.php?id=61576678558068), HTML et CSS où vous affrontez BOBY, une IA imbattable !
 
 ## Fonctionnalités principales
 
@@ -41,7 +41,7 @@ Ouvrez `index.html` dans votre navigateur préféré.
 - `index.html` : structure HTML du jeu et inclusion du script compilé
 - `styles.css` : styles et animations
 - `src/main.ts` : toute la logique du jeu (IA, règles, gestion du plateau...)
-- `assets/image.png` : logo OPEN DEV MADA affiché en haut de page
+- `assets/image.png` : logo OPENDEV MADA affiché en haut de page
 
 ## Règles du jeu
 
@@ -57,4 +57,4 @@ Projet réalisé avec ❤️ par [RDH](https://github.com/RDH36)
 
 N’hésitez pas à forker, améliorer ou proposer des idées !
 
-Laissez un étoile si vous avez aimé le projet !
+Laissez une étoile si vous avez aimé le projet !
