@@ -1,6 +1,6 @@
 # Tic Tac Toe avec BOBY (IA)
 
-Un jeu de Tic Tac Toe pour le defi du semaine 5 de [OPENDEV MADA](https://www.facebook.com/profile.php?id=61576678558068), HTML et CSS où vous affrontez BOBY, une IA imbattable !
+Un jeu de Tic Tac Toe pour le defi du semaine 5 de [OPENDEV MADA](https://www.facebook.com/profile.php?id=61576678558068), TYPESCRIPT, HTML et CSS où vous affrontez BOBY, une IA imbattable !
 
 ## Fonctionnalités principales
 
