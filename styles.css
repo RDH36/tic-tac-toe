@@ -167,3 +167,16 @@ header {
 #rules li {
   margin-bottom: 7px;
 }
+
+footer {
+  margin-top: 22px;
+}
+.footer {
+  color: #212a3e;
+  font-size: 0.8rem;
+}
+
+footer a {
+  color: #9d07a0a2;
+  text-decoration: none;
+}
